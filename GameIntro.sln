@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Collision", "Collision\Coll
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Interaction", "Interaction\Interaction.vcxproj", "{3E92465A-C6C1-4B86-B78A-303FD4F1A593}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParticleSystem", "ParticleSystem\ParticleSystem.vcxproj", "{B802458A-3573-42E7-A563-685C201E1CBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{3E92465A-C6C1-4B86-B78A-303FD4F1A593}.Release|x64.Build.0 = Release|x64
 		{3E92465A-C6C1-4B86-B78A-303FD4F1A593}.Release|x86.ActiveCfg = Release|Win32
 		{3E92465A-C6C1-4B86-B78A-303FD4F1A593}.Release|x86.Build.0 = Release|Win32
+		{B802458A-3573-42E7-A563-685C201E1CBD}.Debug|x64.ActiveCfg = Debug|x64
+		{B802458A-3573-42E7-A563-685C201E1CBD}.Debug|x64.Build.0 = Debug|x64
+		{B802458A-3573-42E7-A563-685C201E1CBD}.Debug|x86.ActiveCfg = Debug|Win32
+		{B802458A-3573-42E7-A563-685C201E1CBD}.Debug|x86.Build.0 = Debug|Win32
+		{B802458A-3573-42E7-A563-685C201E1CBD}.Release|x64.ActiveCfg = Release|x64
+		{B802458A-3573-42E7-A563-685C201E1CBD}.Release|x64.Build.0 = Release|x64
+		{B802458A-3573-42E7-A563-685C201E1CBD}.Release|x86.ActiveCfg = Release|Win32
+		{B802458A-3573-42E7-A563-685C201E1CBD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
