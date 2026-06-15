@@ -12,10 +12,12 @@ bool collision(float x1, float y1, float r1, float x2, float y2, float r2)
 
 int main()
 {
+	// posisi dan radius lingkaran 1
 	float x1 = 400.f;
 	float y1 = 300.f;
 	float r1 = 40.f;
 
+	// posisi dan radius lingkaran 2
 	float x2 = 0.f;
 	float y2 = 0.f;
 	float r2 = 20.f;
